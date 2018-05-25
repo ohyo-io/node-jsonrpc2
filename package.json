@@ -1,0 +1,27 @@
+{
+  "name": "@ohyo-io/jsonrpc2",
+  "version": "1.0.0",
+  "description": "JSON-RPC 2.0 pure transport agnostic implementation for NodeJS",
+  "main": "jsonrpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohyo-io/node-jsonrpc2.git"
+  },
+  "keywords": [
+    "json",
+    "jsonrpc",
+    "json-rpc",
+    "jsonrpc2",
+    "json-rpc2",
+    "rpc"
+  ],
+  "author": "Dudochkin Victor <dudochkin.victor@gmail.com> (https://ohyo.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohyo-io/node-jsonrpc2/issues"
+  },
+  "homepage": "https://github.com/ohyo-io/node-jsonrpc2#readme"
+}
